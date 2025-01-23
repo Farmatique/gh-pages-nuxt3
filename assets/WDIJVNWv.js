@@ -1,1 +1,0 @@
-import{_ as t,v as n,x as s,t as o}from"./CFVS7VK8.js";const r={};function a(c,e){return o(),n("div",null,e[0]||(e[0]=[s("h1",null,"This is about page",-1)]))}const i=t(r,[["render",a]]);export{i as default};

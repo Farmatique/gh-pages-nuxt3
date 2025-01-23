@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as s,o as t}from"./Banm7dpP.js";const a={};function r(c,e){return t(),o("div",null,e[0]||(e[0]=[s("h1",null,"This is about page",-1)]))}const i=n(a,[["render",r]]);export{i as default};
